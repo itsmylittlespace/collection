@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Zippo Car 75th Anniversary Collectible", 
+        "material": "", 
+        "code": "48691",
+        "listPrice": 199.96, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Armor Coiled Brass", 
+        "material": "", 
+        "code": "",
+        "listPrice": 99.96, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Zippo Design", 
+        "material": "", 
+        "code": "48247",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Zippo Pop Art", 
+        "material": "", 
+        "code": "",
+        "listPrice": 69.96, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+        {
+        "name": "", 
+        "material": "", 
+        "code": "",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "", 
+        "material": "", 
+        "code": "",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "Black Crackle Silver Zippo Emblem", 
+        "material": "Black Cracle", 
+        "code": "363",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+    {
+        "name": "", 
+        "material": "", 
+        "code": "",
+        "listPrice": 0, 
+        "purchasedPrice": 0, 
+        "acquisition_date": ""
+    },
+
+    {
+        "name": "Zippo Ultralite Black", 
+        "material": "Chrome, Plastic", 
+        "code": "355",
+        "listPrice": 39.96, 
+        "purchasedPrice": 39.96, 
+        "acquisition_date": "2023-05-21"
+    },
+    {
+        "name": "Black Crackle", 
+        "material": "Black Crackle <span class='triggerHover'>&#9432;<span class='showOnHover'>Just a guess. I couldn't find reference from Zippo website</span></span>", 
+        "code": "236",
+        "listPrice": 39.96, 
+        "purchasedPrice": 25, 
+        "acquisition_date": "2023-05-21"
+    },
+  
+    {
+        "name": "Harley-Davidson", 
+        "material": "Street Chrome", 
+        "code": "24025",
+        "listPrice": 49.96, 
+        "purchasedPrice": 34.92, 
+        "acquisition_date": "2023-05-21"
+    },
+    {
+        "name": "Woodchuck Birch", 
+        "material": "Wood, Brass", 
+        "code": "49082",
+        "listPrice": 89.96, 
+        "purchasedPrice": 64.98, 
+        "acquisition_date": "2023-05-20"
+    },
+    {
+        "name": "8-Ball Design", 
+        "material": "Matte", 
+        "code": "2843",
+        "listPrice": 44.96, 
+        "purchasedPrice": 35.95, 
+        "youtubeId": "5J76QfVjN2M",
+        "acquisition_date": "2023-05-17"
+    },
+    {
+        "name": "Anarchy Design", 
+        "material": "Matte", 
+        "code": "20842",
+        "listPrice": 44.96, 
+        "purchasedPrice": 35.48, 
+        "acquisition_date": "2023-05-17", 
+        "youtubeId": "I6xdHn6bZoI"
+    },
+    {
+        "name": "Joker", 
+        "material": "Matte", 
+        "code": "29632",
+        "listPrice": 44.96, 
+        "purchasedPrice": 33.13, 
+        "acquisition_date": "2023-05-17"
+    },
+    {
+        "name": "Zippo and Pattern Design", 
+        "material": "High Polish Brass", 
+        "code": "29677",
+        "listPrice": 54.96, 
+        "purchasedPrice": 44.75, 
+        "acquisition_date": "2023-05-12"
+    },
+    {
+        "name": "Playboy", 
+        "material": "Matte", 
+        "code": "49342",
+        "listPrice": 49.96, 
+        "purchasedPrice": 49.96,
+        "youtubeId": "92o8ETgq-Wc",
+        "acquisition_date": "2023-05-12"
+    },
+    {
+        "name": "Serenity Prayer", 
+        "material": "Satin Chrome", 
+        "code": "28458",
+        "listPrice": 39.96, 
+        "purchasedPrice": 30.99, 
+        "youtubeId": "8gRILrAxOpA",
+        "acquisition_date": "2023-05-11"
+    },
+    {
+        "name": "Reg Navy Blue", 
+        "code": "239",
+        "material": "Matte", 
+        "listPrice": 39.96, 
+        "purchasedPrice": 26.93, 
+        "youtubeId": "lh5aytgC8O8",
+        "acquisition_date": "2023-05-11"
+    }
+]

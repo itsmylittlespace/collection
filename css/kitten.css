@@ -1,0 +1,288 @@
+img { 
+    width: 150px
+}
+
+
+img.full { 
+    width: 100%;
+}
+
+.zoom img:hover {
+    transform: scale(3); 
+}
+
+#cards img:hover { 
+    transform: scale(2.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */   
+}
+
+iframe { 
+    /* width="560" height="315"  */
+    width: 100%;
+    height: 600px;
+}
+
+#cards { 
+    margin: 1rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.info-block>span { 
+    display: inline-block ;
+    vertical-align: top;
+}
+
+.info-block>span:nth-child(1) { 
+    width: 30%;
+}
+.info-block>span:nth-child(2) { 
+    width: 65%;
+}
+
+
+span.showOnHover { 
+    display: none;
+}
+.triggerHover:hover span.showOnHover { 
+    display: inline-block;
+    background: #888; 
+    color: white;
+    padding: .5rem;
+    position: absolute;
+    border-radius: 4px;
+    font-size: smaller;
+}
+
+
+.info-block span img { 
+    width: 100%;
+}
+
+ul { 
+    margin-top: 0;
+}
+ul li { 
+    list-style-type: none;
+    margin-left: -1rem;
+    padding-right: 1rem
+}
+
+table { 
+    width: 100%;
+}
+th { 
+    padding: 0.5rem;
+}
+td { 
+    padding: .5rem;
+}
+
+tr:hover { 
+    background-color: #fffbdf;
+}
+
+td .addMarginTop { 
+    margin-top: .5rem;
+}
+
+button { 
+    padding: 1rem;
+    background: gold;
+}
+
+
+table img { 
+    height: 60px;
+    width: auto;
+}
+
+img.icon { 
+    width: auto !important;
+    height: 20px;
+    margin: 0; 
+    padding: 0;
+
+    vertical-align: bottom;
+}
+
+div.answer { 
+    visibility: hidden;
+    margin: 1rem;
+    /* margin-bottom: 2rem; */
+    margin-bottom: 0rem;
+    padding-bottom: 1.2rem;
+    line-height: 1.5rem;
+
+}
+
+div.question:hover div.answer, 
+div.question:active div.answer{ 
+    animation: 500ms fadeIn;
+    color: black;
+    visibility: visible;
+}
+
+td.price { 
+    width: 100px;
+}
+td.price a { 
+    margin-top: .5rem;
+    display: inline-block;
+}
+
+.keyword { 
+    color: rgb(185, 171, 70);
+    /* background: #fffbdf; */
+}
+
+table td { 
+    vertical-align: middle;
+}
+
+.ul-nopadding { 
+    margin-left: -1rem;
+}
+.ul-nopadding li { 
+    padding-bottom: 0.3rem; 
+    padding-top: 0.3rem; 
+}
+
+
+.mobile-700, .mobile-800 { 
+    display: none;
+}
+
+div.image-container>img { 
+    width: auto; 
+    height: 480px;
+}
+div.image-container-oomomo>img { 
+    width: auto; 
+    height: 380px;
+}
+
+.caption { 
+    color: gray; 
+    font-style: italic;
+}
+
+@media (max-width: 1600px) { 
+    div.image-container>img { 
+        width: auto; 
+        height: 400px;
+    }
+    div.image-container-oomomo>img { 
+        width: auto; 
+        height: 320px;
+    }
+}
+@media (max-width: 1400px) { 
+    div.image-container>img { 
+        width: auto; 
+        height: 300px;
+    }
+    div.image-container-oomomo>img { 
+        width: auto; 
+        height: 230px;
+    }
+}
+@media (max-width: 1150px) { 
+    div.image-container>img { 
+        width: auto; 
+        height: 250px;
+    }
+    div.image-container-oomomo>img { 
+        width: auto; 
+        height: 300px;
+    }
+    .desktop-1150 { 
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 800px) { 
+    .desktop-800 { 
+        display: none;
+    }
+
+    .mobile-800 { 
+        display: inline-block;
+    }
+    div.image-container>img { 
+        width: auto; 
+        height: 200px;
+    }
+   
+}
+
+@media (max-width: 750px) { 
+    div.image-container-oomomo>img { 
+        width: auto; 
+        height: 280px;
+    }
+}
+
+@media (max-width: 700px) { 
+    .desktop-700 { 
+        display: none;
+    }
+
+    .mobile-700 { 
+        display: inline-block;
+    }
+}
+
+@media (max-width: 600px) { 
+    #cards img:hover {
+        transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+    }
+
+    div.image-container>img,
+    div.image-container-oomomo>img { 
+        width: 100%; 
+        height: auto;
+    }
+
+    iframe { 
+        width: 100%;
+        height: 200px;
+    }
+
+    #cards { 
+        text-align: center;
+    }
+
+    #cards p, #cards h4 { 
+        text-align: left;
+    }
+
+    .info-block>span { 
+        display: block;
+        width: 100%;
+    }
+
+    .info-block>span:nth-child(1) { 
+        width: 100%;
+    }
+    .info-block>span:nth-child(2) { 
+        width: 100%;
+    }
+
+    td, th { 
+        padding: 1rem 0;
+    }
+
+    ul { 
+        margin-top: .5rem;
+        margin-left: -1rem;
+    }
+
+    .well.well-info { 
+        margin-left: 0; 
+        margin-right: 0;
+        margin-top: .5rem;
+    }
+
+}

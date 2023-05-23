@@ -1,0 +1,123 @@
+span.showOnHover { 
+    display: none;
+}
+.triggerHover:hover span.showOnHover { 
+    display: inline-block;
+    background: #888; 
+    color: white;
+    padding: .5rem;
+    position: absolute;
+    border-radius: 4px;
+    font-size: smaller;
+}
+
+
+table { 
+    width: 100%;
+}
+th { 
+    padding: 0.5rem;
+}
+
+tr:hover { 
+    background-color: #fffbdf;
+}
+
+td { 
+    padding: .5rem;
+}
+table td { 
+    vertical-align: middle;
+}
+
+table img.zoom { 
+    width: 50px;
+}
+th.icon, td.icon { 
+    padding-left: 0; 
+    padding-right: 0;
+    border-right: none;
+}
+
+td:nth-child(2) { 
+    border-left: none transparent;
+    
+    padding-left: 0;
+    margin-left: 0;
+}
+
+
+img.zoom:hover {
+    transform: scale(3); 
+}
+
+a.img { 
+    margin-top: 0.5rem;
+}
+
+ol { 
+    margin-left: -1rem;
+    line-height: 1.5rem;
+}
+
+
+
+.modelno { 
+    color: darkgray; 
+    font-size: smaller;
+}
+
+td div.name { 
+    line-height: 1.5rem;
+}
+
+
+span.zippo { 
+    margin: 0rem;
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    height: 250px;
+    /* margin: .5rem 1rem 1rem .5rem; */
+
+    white-space: nowrap;
+    display: inline-block;
+    vertical-align: top;
+
+    /* background: rgb(255, 249, 228); */
+    /* border-bottom: 6px solid rgb(255, 231, 145); */
+}
+
+
+span.zippo span.description { 
+    vertical-align: top;
+    margin-top: .5rem;
+
+    margin-right: 1rem;
+    margin-left: .2rem;
+
+    display: inline-block;
+    line-height: 1.5rem;
+    width: 200px;
+    white-space: normal;
+}
+
+span.zippo span.description span.infoblock { 
+    background: rgba(69, 69, 69, 0.53);
+    color: white;
+    display: inline-block;
+    border-radius: 8px;
+    padding:  .5rem;
+    width: 200px;
+    margin-bottom: 1rem;
+
+}
+
+span.zippo span.description span.infoblock:hover { 
+    background: rgba(0, 0, 0, 0.782);
+    transition: background .5s;
+}
+
+span.zippo span.description .modelno{ 
+    color: rgb(255, 249, 206);
+
+}

@@ -1,0 +1,144 @@
+
+
+
+nav {
+	background-color: rgb(102, 102, 102);
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px #888888;
+    font-family: Candara, Arial, Sans-Serif;
+
+	overflow: auto;
+	white-space: nowrap;
+}
+
+
+nav a {
+	/* structure */
+	display: inline-block;
+	padding: 1rem .8rem;
+	font-size: 16px;
+	font-weight: bold;
+
+	/* color & design */
+	color: white;
+	text-decoration: none;
+	background-color: rgb(102, 102, 102);
+	
+}
+
+nav span.navSectionHeader-desktop { 
+	display: none;
+}
+
+nav span.navSectionHeader-mobile { 
+	color: #ddd;
+	display: inline;
+}
+
+nav a.first {
+	border-radius: 15px 0px 0px 15px;
+}
+
+nav a.current-tab, 
+nav a.current-tab:hover  {
+	background-color: rgb(255, 187, 64);
+}
+
+nav a:hover {
+	background-color: #888;
+	opacity: 1;
+}
+
+.submenu { 
+	padding-top: 1rem;
+	padding-left: 1rem;
+	padding-bottom: 1rem;
+	font-weight: bold;
+	font-size: 15px;
+    font-family: Candara, Arial, Sans-Serif;
+
+
+	overflow: auto hidden;
+	white-space: nowrap;
+}
+
+
+
+.submenu span, 
+.submenu a { 
+	padding: 1rem;
+	padding-bottom: .2rem; 
+}
+
+.submenu span { 
+	border-bottom: 4px solid rgb(255, 196, 0);
+	color: #888;
+}
+
+.submenu a { 
+	color: #888;
+}
+.submenu a:hover { 
+    color: rgb(255, 196, 0);
+}
+
+.month-nav { 
+	text-align: center;
+	margin-bottom: 1rem;
+}
+
+.month-nav #selectedMonthName{ 
+	width: 200px;
+	display: inline-block;
+    font-family: "Apple Chancery", sans-serif;
+	font-size: 24px;
+}
+
+
+div.last-updated { 
+	margin: 0 1rem -0.5rem 1rem;
+
+	display: block;
+	padding-bottom: 0;
+
+	border-bottom: none;
+	color: #333;
+	font-size: 12px;
+    font-family: Candara, Arial, Sans-Serif;
+    
+}
+
+nav a .nav-icon { 
+	display: none;
+}
+
+
+.center { 
+	text-align: center;
+	float: center;
+}
+
+
+.verticalMiddle { 
+	vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Hide scrollbar but keep scrollable */
+.submenu, nav {
+    -ms-overflow-style: none;  /* Internet Explorer 10+ */
+    scrollbar-width: none;  /* Firefox */
+}
+.submenu::-webkit-scrollbar, nav::-webkit-scrollbar { 
+    display: none;  /* Safari and Chrome */
+}
