@@ -16,11 +16,10 @@
                                 ${edition.name} 
                             </a><br>
                             <div class="mobile-800">
-                                <div class="addMarginTop">Type: ${displayType}</div>
+                                <div class="addMarginTop">${displayType}</div>
                                 <div class="addMarginTop mobile">
                                     CDN$${edition.price}
                                 </div>
-                                
                             </div>
                             
                         </td> 
