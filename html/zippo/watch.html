@@ -55,15 +55,18 @@
             html += `<span class="zippo">`;
 
             const amazonLink = zippo.amazon 
-                    ? getAmazonLink('Shop on Amazon', zippo.amazon)
-                    : '';
+                    ? getAmazonLink('Shop on Amazon', zippo.amazon, false)
+                    : `
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    `;
 
             html += `
                 <span class="imageblock">
                     <image src="../../data/zippo/${zippo.code}.jpeg" width="150"/>
-                    <span class="center" style="display: inline-block; ">
-                        ${amazonLink}
-                    </span>
+                    
                 </span> 
                 <span class="description"> 
                     <span class="infoblock">
@@ -81,10 +84,7 @@
                     </span>
                     <span style="display: inline-block; ">
                             <span>
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                ${amazonLink}
                             </span>
                         </span>
                 </span> 

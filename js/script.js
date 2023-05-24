@@ -73,13 +73,14 @@
 
 })(); 
 
-function getAmazonLink(title, link) { 
+function getAmazonLink(title, link, showHover) { 
     return `
-        <a target="_blank" class="amazon triggerHover" href="${link}" >
+        <a target="_blank" class="amazon  ${(showHover===false) ? '' : 'triggerHover'}" href="${link}" >
+            ${title}
             <img class="icon" src="../../data/link/amazon.png" /> 
             <img class="icon" src="../../data/link/canada.png" /> 
             <span class="showOnHover">
-                Shop from Amazon.ca
+                Shop on Amazon.ca
             </span>
         </a>
     `;
