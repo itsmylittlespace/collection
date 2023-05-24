@@ -78,7 +78,8 @@
         "code": "236",
         "listPrice": 39.96, 
         "purchasedPrice": 25, 
-        "acquisition_date": "2023-05-21"
+        "acquisition_date": "2023-05-21", 
+        "amazon": "https://amzn.to/3WxnWwC"
     },
   
     {
@@ -95,7 +96,8 @@
         "code": "49082",
         "listPrice": 89.96, 
         "purchasedPrice": 64.98, 
-        "acquisition_date": "2023-05-20"
+        "acquisition_date": "2023-05-20", 
+        "amazon": "https://amzn.to/3Moy3za"
     },
     {
         "name": "8-Ball Design", 
@@ -104,7 +106,8 @@
         "listPrice": 44.96, 
         "purchasedPrice": 35.95, 
         "youtubeId": "5J76QfVjN2M",
-        "acquisition_date": "2023-05-17"
+        "acquisition_date": "2023-05-17", 
+        "amazon": "https://amzn.to/424Ju4I"
     },
     {
         "name": "Anarchy Design", 
@@ -113,7 +116,8 @@
         "listPrice": 44.96, 
         "purchasedPrice": 35.48, 
         "acquisition_date": "2023-05-17", 
-        "youtubeId": "I6xdHn6bZoI"
+        "youtubeId": "I6xdHn6bZoI", 
+        "amazon": "https://amzn.to/3MSukeD"
     },
     {
         "name": "Joker", 
@@ -121,7 +125,8 @@
         "code": "29632",
         "listPrice": 44.96, 
         "purchasedPrice": 33.13, 
-        "acquisition_date": "2023-05-17"
+        "acquisition_date": "2023-05-17", 
+        "amazon": "https://amzn.to/3BUxF6w"
     },
     {
         "name": "Zippo and Pattern Design", 
@@ -139,7 +144,8 @@
         "listPrice": 49.96, 
         "purchasedPrice": 49.96,
         "youtubeId": "92o8ETgq-Wc",
-        "acquisition_date": "2023-05-12"
+        "acquisition_date": "2023-05-12", 
+        "amazon": "https://amzn.to/3WznwFV"
     },
     {
         "name": "Serenity Prayer", 
@@ -148,7 +154,8 @@
         "listPrice": 39.96, 
         "purchasedPrice": 30.99, 
         "youtubeId": "8gRILrAxOpA",
-        "acquisition_date": "2023-05-11"
+        "acquisition_date": "2023-05-11", 
+        "amazon": "https://amzn.to/3Wx2acn"
     },
     {
         "name": "Reg Navy Blue", 
