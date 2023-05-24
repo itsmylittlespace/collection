@@ -69,5 +69,18 @@
         return (results !== null) ? results[1] || 0 : false;
     }
 
+
+
 })(); 
 
+function getAmazonLink(title, link) { 
+    return `
+        <a target="_blank" class="amazon triggerHover" href="${link}" >
+            <img class="icon" src="../../data/link/amazon.png" /> 
+            <img class="icon" src="../../data/link/canada.png" /> 
+            <span class="showOnHover">
+                Shop from Amazon.ca
+            </span>
+        </a>
+    `;
+}

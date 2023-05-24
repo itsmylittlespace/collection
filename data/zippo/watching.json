@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Zippo Car 75th Anniversary Collectible", 
+        "code": "48691",
+        "listPrice": 199.96, 
+        "amazon": "https://amzn.to/43mdJFp"
+    },
+    {
+        "name": "Armor Coiled Brass", 
+        "code": "29625",
+        "listPrice": 99.96
+    },
+    {
+        "name": "Zippo Design", 
+        "code": "48247",
+        "listPrice": 0
+    },
+    {
+        "name": "Zippo Pop Art", 
+        "code": "49533",
+        "listPrice": 69.96, 
+        "amazon": "https://amzn.to/422jLKu"
+    },
+        {
+        "name": "65th Anniversary Design", 
+        "code": "65000",
+        "listPrice": 65.96 
+    },
+    {
+        "name": "Bolts Design", 
+        "code": "29672",
+        "listPrice": 133.29
+    },
+    {
+        "name": "Candy Apple Red", 
+        "code": "21063", 
+        "listPrice": 39.96, 
+        "amazon": "https://amzn.to/3q65Ndb"
+    },
+
+    {
+        "name": "Zippo 90th Anniversary Collectible", 
+        "code": "49864",
+        "listPrice": 99.96, 
+        "amazon": "https://amzn.to/3BPZSvx"
+    }
+]

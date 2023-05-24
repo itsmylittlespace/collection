@@ -223,3 +223,17 @@ section.box h1 {
 
 }
 
+
+span.showOnHover { 
+    display: none;
+}
+.triggerHover:hover span.showOnHover { 
+    display: inline-block;
+    background: #888; 
+    color: white;
+    padding: .5rem;
+    position: absolute;
+    border-radius: 4px;
+    font-size: smaller;
+}
+
