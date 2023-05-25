@@ -105,7 +105,7 @@
         "code": "2843",
         "listPrice": 44.96, 
         "purchasedPrice": 35.95, 
-        "youtubeId": "5J76QfVjN2M",
+        "youtubeId": "fZgT5FVRxyo",
         "acquisition_date": "2023-05-17", 
         "amazon": "https://amzn.to/424Ju4I"
     },
@@ -116,7 +116,7 @@
         "listPrice": 44.96, 
         "purchasedPrice": 35.48, 
         "acquisition_date": "2023-05-17", 
-        "youtubeId": "I6xdHn6bZoI", 
+        "youtubeId": "Y77S8ozQFVg", 
         "amazon": "https://amzn.to/3MSukeD"
     },
     {
@@ -126,7 +126,8 @@
         "listPrice": 44.96, 
         "purchasedPrice": 33.13, 
         "acquisition_date": "2023-05-17", 
-        "amazon": "https://amzn.to/3BUxF6w"
+        "amazon": "https://amzn.to/3BUxF6w", 
+        "youtubeId": "_QjiIc4Xq5s"
     },
     {
         "name": "Zippo and Pattern Design", 
