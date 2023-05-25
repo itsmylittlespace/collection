@@ -125,6 +125,12 @@ span.zippo span.description .modelno{
     color: rgb(255, 249, 206);
 }
 
+.box .well { 
+    margin: 0;
+    margin-bottom: 1rem;
+    line-height: 1.5rem;
+}
+
 @media (max-width: 600px) {
     span.zippo { 
         margin-bottom: 2.5rem;
