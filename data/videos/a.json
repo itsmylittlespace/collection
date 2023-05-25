@@ -1,0 +1,1492 @@
+{
+    "responseContext": {
+      "serviceTrackingParams": [
+        {
+          "service": "GFEEDBACK",
+          "params": [
+            {
+              "key": "serializedDelegationContext",
+              "value": "EhhVQ1RiODJ1N1dQek1ZMmFOcmpVZzBvRVEqAggI"
+            },
+            {
+              "key": "logged_in",
+              "value": "1"
+            },
+            {
+              "key": "e",
+              "value": "1714255,9405961,23804281,23918597,23946420,23966208,23983296,23998056,24004644,24007246,24034168,24036948,24077241,24080738,24120820,24135310,24140247,24161116,24162920,24164186,24169501,24181174,24187043,24187377,24211178,24219382,24219713,24240253,24241378,24255165,24255543,24255545,24262346,24263796,24267564,24268142,24270757,24281897,24283015,24287604,24288043,24288664,24290971,24294555,24390675,24391537,24397801,24404640,24407190,24415864,24415866,24418790,24422004,24426636,24428900,24428949,24429044,24429093,24430382,24433161,24436009,24436458,24437129,24439360,24439483,24440132,24441240,24441691,24448383,24450200,24450367,24451032,24453129,24454002,24454498,24457863,24458634,24458839,24459414,24463912,24465101,24466458,24466835"
+            }
+          ]
+        },
+        {
+          "service": "CSI",
+          "params": [
+            {
+              "key": "c",
+              "value": "WEB_CREATOR"
+            },
+            {
+              "key": "cver",
+              "value": "1.20230201.03.00"
+            },
+            {
+              "key": "yt_li",
+              "value": "1"
+            },
+            {
+              "key": "ListCreatorVideos_rid",
+              "value": "0x6a3353d767803490"
+            }
+          ]
+        },
+        {
+          "service": "GUIDED_HELP",
+          "params": [
+            {
+              "key": "logged_in",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "service": "ECATCHER",
+          "params": [
+            {
+              "key": "client.version",
+              "value": "1.20000101"
+            },
+            {
+              "key": "client.name",
+              "value": "WEB_CREATOR"
+            },
+            {
+              "key": "client.fexp",
+              "value": "24457863,24439360,24390675,24439483,24415864,24162920,24219713,24453129,24458839,23918597,24080738,24440132,24120820,24466835,24169501,24450200,24268142,24270757,24288664,24181174,24281897,24034168,24404640,24219382,24465101,24161116,24428949,24429093,24407190,24255545,24290971,24211178,24187043,24415866,24454002,24422004,24263796,24283015,24267564,24135310,24448383,24164186,24288043,24241378,24187377,24429044,24428900,24450367,24287604,24430382,23983296,24140247,24441240,24255165,24262346,24466458,23946420,23804281,24397801,24240253,9405961,24433161,24294555,24454498,24436009,24441691,24451032,24463912,24418790,23966208,24255543,24426636,1714255,24436458,24077241,24459414,24004644,24036948,24391537,24458634,23998056,24437129,24007246"
+            }
+          ]
+        }
+      ],
+      "webResponseContextExtensionData": {
+        "hasDecorated": true
+      }
+    },
+    "videos": [
+      {
+        "videoId": "xBOUfedK4Po",
+        "title": "Ollie over a green battery on a mini fridge",
+        "description": "",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1675593807",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/xBOUfedK4Po/default.jpg?sqp=CLSf_p4G-oaymwEmCHgQWvKriqkDHBgA8AEB-AG2CIACuAiKAgwIABABGFIgVyhlMA8=&rs=AOn4CLBqc7YBOeepfOqZl6wHe3ggohn3_w",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/xBOUfedK4Po/mqdefault.jpg?sqp=CLSf_p4G-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYUiBXKGUwDw==&rs=AOn4CLDKUGfdNuVIE2lBVIB8cEMg5gmYgw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/xBOUfedK4Po/hqdefault.jpg?sqp=CLSf_p4G-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYUiBXKGUwDw==&rs=AOn4CLA2sMKjzD7_Tz6uRleLxjxROmPAbQ",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/xBOUfedK4Po/sddefault.jpg?sqp=CLSf_p4G-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYUiBXKGUwDw==&rs=AOn4CLCkpIORaRGDwkeVXwtdCbszG6OVug",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/xBOUfedK4Po/maxresdefault.jpg?sqp=CLSf_p4G-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYUiBXKGUwDw==&rs=AOn4CLC9NRt3wfA22w8JmnkDPCqmCA-evg",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "9",
+          "commentCount": "0",
+          "likeCount": "1",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "8",
+        "timeCreatedSeconds": "1675593388",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {
+          "feedbackServiceContinuationToken": "mpTPtAJOCkYKN2lubmVydHViZV9zdHVkaW86M0RDNTgwNDYtODI5OC00ODVFLUIyODMtNDREN0Y5RUM0NkIyOjASC3hCT1VmZWRLNFBvGgRtQUVB",
+          "feedbackServiceExperimentalContinuationToken": "mpTPtAJOCkYKN2lubmVydHViZV9zdHVkaW86M0RDNTgwNDYtODI5OC00ODVFLUIyODMtNDREN0Y5RUM0NkIyOjASC3hCT1VmZWRLNFBvGgRtQUVB"
+        },
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=xBOUfedK4Po&t=QUFFLUhqa2Z5TU84T1JWWS1zQUtJWnRxOTZvYXdrclVDQXxBQ3Jtc0tsWTUwSko1RVRGbUFPaGhqS0R2eFdRSy0tb1Y1NXlGQkJkSTZnMmVqdVRWMWxlYmJiSXhpRGZTcDdRdzlGWVNFbFBFbWxsWEtULUljSXBYX3pUcXRzQjR1NFdYXzhHbFNmd0ptbFNOSUxrT3ZLMmlBaw%3D%3D",
+        "watchUrl": "https://youtube.com/shorts/xBOUfedK4Po",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "Ollie over a green battery on a mini fridge"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": false,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_INELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_IS_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": true,
+          "isPlayableInShortsPlayer": true
+        },
+        "shareUrl": "https://youtube.com/shorts/xBOUfedK4Po?feature=share",
+        "contentType": "CREATOR_CONTENT_TYPE_SHORTS",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAcQiI4CGAAiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "cMBq6BIlOwI",
+        "title": "❮Tech Deck❯ Krooked Yellow Anderson Deck (Rare)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1675576172",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi_webp/cMBq6BIlOwI/default.webp?v=63df43fa&sqp=CLSf_p4G&rs=AOn4CLAevGqaiCehWCdudG_NDx6KU2UO2w",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/cMBq6BIlOwI/mqdefault.webp?v=63df43fa&sqp=CLSf_p4G&rs=AOn4CLA7199bINsEDC5jeXwlOgmMH8GPwA",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/cMBq6BIlOwI/hqdefault.webp?v=63df43fa&sqp=CLSf_p4G&rs=AOn4CLDGrvFUEcrexdyBP5PakQ1TO_kclQ",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/cMBq6BIlOwI/sddefault.webp?v=63df43fa&sqp=CLSf_p4G&rs=AOn4CLCpIOIhCaF1tAdzPRu5oIJSNYlaUA",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/cMBq6BIlOwI/maxresdefault.webp?v=63df43fa&sqp=CLSf_p4G&rs=AOn4CLDjuxvdzhean9keKw6FPyfwHnYJnQ",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "4",
+          "commentCount": "0",
+          "likeCount": "1",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "83",
+        "timeCreatedSeconds": "1675576029",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {
+          "feedbackServiceContinuationToken": "mpTPtAJOCkYKN2lubmVydHViZV9zdHVkaW86MzQ2RjVEMTUtQzQzRC00REE2LThGODEtM0Q0NUIyREVEMDRDOjASC2NNQnE2QklsT3dJGgRtQUVB",
+          "feedbackServiceExperimentalContinuationToken": "mpTPtAJOCkYKN2lubmVydHViZV9zdHVkaW86MzQ2RjVEMTUtQzQzRC00REE2LThGODEtM0Q0NUIyREVEMDRDOjASC2NNQnE2QklsT3dJGgRtQUVB"
+        },
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=cMBq6BIlOwI&t=QUFFLUhqa1FneXJTSzltRmVUZkNEWkh6X3Y5LVpqYU1lQXxBQ3Jtc0trNVJzZms4NHhhVllhV3ZIbE1leXhfQWJQLW53cEJmblRxdHJSUDQ2enJxNXFnV2psd1VvMTFBTFhqbTNwVFRRN3pjbXBNNHhWeVJ3a1lPX1lnZzl6Q0JrTmtfcFl3MXJmaGhPakp1aHVISkdhcFJWTQ%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=cMBq6BIlOwI",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false,
+          "minTierRankId": ""
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Krooked Yellow Anderson Deck (Rare)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": false,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/cMBq6BIlOwI",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAYQiI4CGAEiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "ezcvSOdXP3s",
+        "title": "❮Tech Deck❯ Deathwish - Big Boy Foy (Ultra Rare)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1674510795",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/ezcvSOdXP3s/default.jpg?v=63cf017d&sqp=CLSf_p4G&rs=AOn4CLA06g1P-1KEDowOnzreDBgysm2bMw",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/ezcvSOdXP3s/mqdefault.jpg?v=63cf017d&sqp=CLSf_p4G&rs=AOn4CLCPdODi3WnGykrGx4gWO6X-6SjK3A",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/ezcvSOdXP3s/hqdefault.jpg?v=63cf017d&sqp=CLSf_p4G&rs=AOn4CLCJ_g8qbV6lzGgZil2mg1IToJQJvw",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/ezcvSOdXP3s/sddefault.jpg?v=63cf017d&sqp=CLSf_p4G&rs=AOn4CLAjgNTTY7EjDU0Q8-CSSthgOf-sPA",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "738",
+          "commentCount": "4",
+          "likeCount": "17",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "111",
+        "timeCreatedSeconds": "1674510623",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=ezcvSOdXP3s&t=QUFFLUhqbmlIUlBQZXhaZVEzR1c0Z3JMSGxnRkVZaWR3QXxBQ3Jtc0ttSUpOWFJOMzBBOWotNzdPRWVua3FCY1BreG9teV9fVG9NeV9nSjFBTkszZFBjUlZyTC1QZmNFM3lfQWNQOTZKQjRZaEd4a3JOdk1sZVJiM0tOUjdJX0pySi1jc05SSG1sYS1sUm1tMDZrY0dyOEU1cw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=ezcvSOdXP3s",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Deathwish - Big Boy Foy (Ultra Rare)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/ezcvSOdXP3s",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAUQiI4CGAIiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "fy7htkRsnfs",
+        "title": "❮Tech Deck❯ Disorder Deck (Common)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1674470303",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi_webp/fy7htkRsnfs/default.webp?v=63ce637e&sqp=CLSf_p4G&rs=AOn4CLAl5DX3mre9aveSj9RbYmZF1P6Hpg",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/fy7htkRsnfs/mqdefault.webp?v=63ce637e&sqp=CLSf_p4G&rs=AOn4CLBXhkPQk8J6fm9mF9Lrtq2FoZRmKQ",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/fy7htkRsnfs/hqdefault.webp?v=63ce637e&sqp=CLSf_p4G&rs=AOn4CLAQzos6egPhdlPidpySlSgzPwQZhA",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/fy7htkRsnfs/sddefault.webp?v=63ce637e&sqp=CLSf_p4G&rs=AOn4CLAE-G85Z91A7hK8-YnXJ9cSaUmLZw",
+              "width": 640,
+              "height": 480
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "35",
+          "commentCount": "0",
+          "likeCount": "3",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "52",
+        "timeCreatedSeconds": "1674470083",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=fy7htkRsnfs&t=QUFFLUhqbExOV3AzdlM2blE5NERLQ3R5VlRTOUtaOUdjZ3xBQ3Jtc0tuX2FwYmtXQ0hOTFhBRURlamkxcE5zWGhVUWRkNnZIT1RtZ2owbFRuTzhSWHdyc25PYkloSmloQ2lsdFNQUUc0WHJqbnRwd2JQdUozVlBpU2dpbEFaZTU2a3RFZURqRUhNOGJHMnF1dEFhd3dRTHJFNA%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=fy7htkRsnfs",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false,
+          "minTierRankId": ""
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Disorder Deck (Common)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/fy7htkRsnfs",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAQQiI4CGAMiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "KljWrQkPSYU",
+        "title": "Can we agree that pop shuv is the coolest fun easy trick?",
+        "description": "I love pop shove-it",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1673930515",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi/KljWrQkPSYU/default.jpg?sqp=CLSf_p4G-oaymwEmCHgQWvKriqkDHBgA8AEB-AG2CIACuAiKAgwIABABGEEgWShlMA8=&rs=AOn4CLB8ocRUDABj2Z0dv1kbPJx50QdAAg",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/KljWrQkPSYU/mqdefault.jpg?sqp=CLSf_p4G-oaymwEoCMACELQB8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYQSBZKGUwDw==&rs=AOn4CLAz76YfR7yA4fZLXKrOrpK8X39qjw",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/KljWrQkPSYU/hqdefault.jpg?sqp=CLSf_p4G-oaymwEoCOADEOgC8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYQSBZKGUwDw==&rs=AOn4CLDcVhPFaxjCxwxCcIAbe0Q1bU8_Qg",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/KljWrQkPSYU/sddefault.jpg?sqp=CLSf_p4G-oaymwEoCIAFEOAD8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYQSBZKGUwDw==&rs=AOn4CLDqLYGk84myyZ_EOR4IM4dNR6HpIQ",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi/KljWrQkPSYU/maxresdefault.jpg?sqp=CLSf_p4G-oaymwEoCIAKENAF8quKqQMcGADwAQH4AbYIgAK4CIoCDAgAEAEYQSBZKGUwDw==&rs=AOn4CLDXfa--eS_3KlTpW_CJeHjWUlOBhQ",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "5127",
+          "commentCount": "4",
+          "likeCount": "70",
+          "dislikeCount": "4"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "7",
+        "timeCreatedSeconds": "1673930372",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=KljWrQkPSYU&t=QUFFLUhqbTNOeldzVDYxcG9DdFB6QnNDVkZmMUREbkI5d3xBQ3Jtc0trdUEzSzhyS09GRFBBdjVqSlBJWVFYamlKRUo0NklBdHpJMVVHQ1RHTGZ2QTBtd3VZcllQblJRYUJiY3dZZlJjUnkzbkRxa1Z2NDNrelFzQ2JCbjIzWkV6T080eldCNVJFa1lZQWp2cHdRTmQzZU9GOA%3D%3D",
+        "watchUrl": "https://youtube.com/shorts/KljWrQkPSYU",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "Can we agree that pop shuv is the coolest fun easy trick?"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "I love pop shove-it"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_INELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_IS_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": true,
+          "isPlayableInShortsPlayer": true
+        },
+        "shareUrl": "https://youtube.com/shorts/KljWrQkPSYU?feature=share",
+        "contentType": "CREATOR_CONTENT_TYPE_SHORTS",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAMQiI4CGAQiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "4HZraHO8Dko",
+        "title": "❮Tech Deck❯ Krooked Skateboards - Blue Logo Deck (Common)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1673926334",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi_webp/4HZraHO8Dko/default.webp?v=63c617b9&sqp=CLSf_p4G&rs=AOn4CLCcwwsNXP9V2P63m56U6G6NwE53XA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/4HZraHO8Dko/mqdefault.webp?v=63c617b9&sqp=CLSf_p4G&rs=AOn4CLBQyC7vNf_G3oLWoaP0sJ-RpMHDiA",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/4HZraHO8Dko/hqdefault.webp?v=63c617b9&sqp=CLSf_p4G&rs=AOn4CLDvJ_ieswUVoYMAdabi9jgoIAljdg",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/4HZraHO8Dko/sddefault.webp?v=63c617b9&sqp=CLSf_p4G&rs=AOn4CLBZZ0gDsHyD6G3-fxF3Im-1_52m1g",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/4HZraHO8Dko/maxresdefault.webp?v=63c617b9&sqp=CLSf_p4G&rs=AOn4CLBOl32F11JoC_YTdol_zEVA4eYJtA",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "226",
+          "commentCount": "2",
+          "likeCount": "4",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "63",
+        "timeCreatedSeconds": "1673926090",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=4HZraHO8Dko&t=QUFFLUhqbUo5QTJ0OWp0dTYxTXJwVVBhejJ0dVdaOU0yQXxBQ3Jtc0tsZ1NUbUJEdEFFaXBtUU9vNGd4cjdqWHdhVWlIY3dMVmxUZkcwY1hvdV9hZGp5c25HOV81MGhsaUVCYlB3Y0Z3NFZ4aUU2OTdoWkRiRTF1SXlrWEJXRlhKcUVBVDNjbWVidUNzZFVJOXUyNUZGT21IOA%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=4HZraHO8Dko",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Krooked Skateboards - Blue Logo Deck (Common)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/4HZraHO8Dko",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAIQiI4CGAUiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "OQ0_FSdCVew",
+        "title": "❮Tech Deck❯ Girl Skateboards - Blabac Photo Series (Ultra Rare)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1\n\nJust a side note, Mike Carroll is actually the co-founder of Girl Skateboards",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1673849578",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi_webp/OQ0_FSdCVew/default.webp?v=63c4eb94&sqp=CLSf_p4G&rs=AOn4CLARpEh6Xm2wilHaMJ_hyf_c-5l3mA",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/OQ0_FSdCVew/mqdefault.webp?v=63c4eb94&sqp=CLSf_p4G&rs=AOn4CLDTS_5XPhDXplFNXgEzUc_LtMaqLg",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/OQ0_FSdCVew/hqdefault.webp?v=63c4eb94&sqp=CLSf_p4G&rs=AOn4CLAyTGqjKgDWqmYT6CBQLgLM1XfEtA",
+              "width": 480,
+              "height": 360
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "465",
+          "commentCount": "1",
+          "likeCount": "12",
+          "dislikeCount": "1"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "81",
+        "timeCreatedSeconds": "1673848988",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=OQ0_FSdCVew&t=QUFFLUhqbGZvbVVSNFRaRVhNYUJZaTdORUNPbWVyd0dIQXxBQ3Jtc0trdE5Td090ZDhzQ0pmOUlhR3hnOVJHZ3g3S2xOS3JVOVpFd0ZySkM4eWd4OWl6YnFaVndfYzdjVEVlbGs2allrWkhEeHM4QmZJTnUyOFI3SHZtTkNvdXpaaldsV2EzNloweDRfemxMWjlIVDBxU0VWcw%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=OQ0_FSdCVew",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Girl Skateboards - Blabac Photo Series (Ultra Rare)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            },
+            {
+              "text": "\n\nJust a side note, Mike Carroll is actually the co-founder of Girl Skateboards"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/OQ0_FSdCVew",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAEQiI4CGAYiEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      },
+      {
+        "videoId": "qBCgimyvRA8",
+        "title": "❮Tech Deck❯ Toy Machine - Masked Vice Monster Deck (Ultra Rare)",
+        "description": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: https://www.youtube.com/@ya_deck?sub_confirmation=1\n\nChapters: \n0:00 Intro  \n0:15 Stickers\n0:30 Deck + Grip tape Close Look\n0:58 Closing",
+        "privacy": "VIDEO_PRIVACY_PUBLIC",
+        "channelId": "UCTb82u7WPzMY2aNrjUg0oEQ",
+        "timePublishedSeconds": "1673726293",
+        "thumbnailDetails": {
+          "thumbnails": [
+            {
+              "url": "https://i9.ytimg.com/vi_webp/qBCgimyvRA8/default.webp?v=63c346ed&sqp=CLSf_p4G&rs=AOn4CLCFQ0ag0ibn9i-7N80t27rmmgvkBQ",
+              "width": 120,
+              "height": 90
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/qBCgimyvRA8/mqdefault.webp?v=63c346ed&sqp=CLSf_p4G&rs=AOn4CLAArNb9BoVtSS-rG680Xf0NrOGWAA",
+              "width": 320,
+              "height": 180
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/qBCgimyvRA8/hqdefault.webp?v=63c346ed&sqp=CLSf_p4G&rs=AOn4CLAU11gQ4qnGn2m4wtlLhAr5jg7Cqw",
+              "width": 480,
+              "height": 360
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/qBCgimyvRA8/sddefault.webp?v=63c346ed&sqp=CLSf_p4G&rs=AOn4CLAOztUXlhAdADCCyIy05zokTbKMCA",
+              "width": 640,
+              "height": 480
+            },
+            {
+              "url": "https://i9.ytimg.com/vi_webp/qBCgimyvRA8/maxresdefault.webp?v=63c346ed&sqp=CLSf_p4G&rs=AOn4CLBWDZSKTz_vdpi2W6rfLHy81A8D9w",
+              "width": 1920,
+              "height": 1080
+            }
+          ]
+        },
+        "metrics": {
+          "viewCount": "317",
+          "commentCount": "2",
+          "likeCount": "6",
+          "dislikeCount": "0"
+        },
+        "draftStatus": "DRAFT_STATUS_NONE",
+        "permissions": {
+          "overallPermissions": [
+            "CREATOR_VIDEO_PERMISSION_WATCH",
+            "CREATOR_VIDEO_PERMISSION_BASIC_METADATA_READ",
+            "CREATOR_VIDEO_PERMISSION_READ",
+            "CREATOR_VIDEO_PERMISSION_ANALYTICS_READ",
+            "CREATOR_VIDEO_PERMISSION_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DELETE",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_READ",
+            "CREATOR_VIDEO_PERMISSION_CAPTIONS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_READ",
+            "CREATOR_VIDEO_PERMISSION_COMMENT_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_RATING_SETTINGS_WRITE",
+            "CREATOR_VIDEO_PERMISSION_DOWNLOAD",
+            "CREATOR_VIDEO_PERMISSION_MONETIZATION_SETTINGS_READ"
+          ]
+        },
+        "lengthSeconds": "70",
+        "timeCreatedSeconds": "1673725800",
+        "status": "VIDEO_STATUS_PROCESSED",
+        "responseStatus": {
+          "statusCode": "CREATOR_ENTITY_STATUS_OK"
+        },
+        "statusDetails": {},
+        "features": {
+          "creativeCommonsLicense": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "rightsManagement": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "contentEdit": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "autoAnnotation": {
+            "status": "CREATOR_FEATURE_STATUS_ENABLED"
+          },
+          "paygatedVisibility": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          },
+          "customArtwork": {
+            "status": "CREATOR_FEATURE_STATUS_DISABLED"
+          }
+        },
+        "downloadUrl": "/download_my_video?v=qBCgimyvRA8&t=QUFFLUhqbi1OQjdBS3NVLUg2XzkzZ0h6Yi1Nb1BVR2lGZ3xBQ3Jtc0ttem9tcmtET083S0Qyb3l0aXczTVFBbENtV1hRbWFYNVJLNjRnbktrcVZXYkpxeDJZMUM0LW4tLW5QTnI5VkxQX3BPODZDSjRCZkNUR096V2daNkFFU0p1cVhhMnBiemxTT0FOY1dxenVqalpIb0hYOA%3D%3D",
+        "watchUrl": "https://www.youtube.com/watch?v=qBCgimyvRA8",
+        "visibility": {
+          "effectiveStatus": "VIDEO_VISIBILITY_STATUS_USER_CONFIG"
+        },
+        "origin": "VIDEO_ORIGIN_UPLOAD",
+        "inlineEditProcessingStatus": "VIDEO_PROCESSING_STATUS_UNEDITED",
+        "sponsorsOnly": {
+          "isSponsorsOnly": false
+        },
+        "unlistedExpired": false,
+        "audienceRestriction": {
+          "selfRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "systemRating": "VIDEO_TARGETED_AUDIENCE_UNKNOWN",
+          "overrideEnabled": true,
+          "effectiveRating": "VIDEO_TARGETED_AUDIENCE_ALL",
+          "imposer": "VIDEO_TARGETED_AUDIENCE_IMPOSER_SELF"
+        },
+        "titleFormattedString": {
+          "runs": [
+            {
+              "text": "❮Tech Deck❯ Toy Machine - Masked Vice Monster Deck (Ultra Rare)"
+            }
+          ]
+        },
+        "descriptionFormattedString": {
+          "runs": [
+            {
+              "text": "✰ Thanks for watching and please subscribe ✰\n▶ Subscribe: "
+            },
+            {
+              "text": "https://www.youtube.com/@ya_deck?sub_confirmation=1"
+            },
+            {
+              "text": "\n\nChapters: \n"
+            },
+            {
+              "text": "0:00"
+            },
+            {
+              "text": " Intro  \n"
+            },
+            {
+              "text": "0:15"
+            },
+            {
+              "text": " Stickers\n"
+            },
+            {
+              "text": "0:30"
+            },
+            {
+              "text": " Deck + Grip tape Close Look\n"
+            },
+            {
+              "text": "0:58"
+            },
+            {
+              "text": " Closing"
+            }
+          ]
+        },
+        "allRestrictions": {},
+        "videoResolutions": {
+          "statusSd": "RESOLUTION_STATUS_DONE",
+          "statusHd": "RESOLUTION_STATUS_DONE",
+          "status4k": "RESOLUTION_STATUS_UNKNOWN",
+          "status2k": "RESOLUTION_STATUS_UNKNOWN"
+        },
+        "videoPrechecks": {
+          "copyrightPrechecksDone": true,
+          "brandSafetyPrechecksDone": true,
+          "videoUploadChecksMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          },
+          "videoUploadChecksNotMonetized": {
+            "checksSummary": {
+              "status": "UPLOAD_CHECKS_DATA_SUMMARY_STATUS_COMPLETED"
+            },
+            "copyrightCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_COPYRIGHT_STATUS_COMPLETED"
+            },
+            "adSuitabilityCheck": {
+              "checkStatus": "UPLOAD_CHECKS_DATA_AD_SUITABILITY_STATUS_CHANNEL_NOT_MONETIZED"
+            }
+          }
+        },
+        "privateShare": {},
+        "remix": {
+          "remixSourceOption": "REMIX_SOURCE_OPTION_OPT_OUT_AND_MUTE_DERIVATIVES",
+          "remixSourceOptionEligibility": "REMIX_SOURCE_OPTION_ELIGIBILITY_ELIGIBLE",
+          "isSource": false,
+          "remixSourceShorts": "REMIX_SOURCE_SHORTS_NOT_SHORT"
+        },
+        "contentOwnershipModelSettings": {
+          "isOffNetworkUpload": false
+        },
+        "shorts": {
+          "isShortsEligible": false,
+          "isPlayableInShortsPlayer": false
+        },
+        "shareUrl": "https://youtu.be/qBCgimyvRA8",
+        "contentType": "CREATOR_CONTENT_TYPE_VIDEO_ON_DEMAND",
+        "isPaygated": false,
+        "loggingDirectives": {
+          "trackingParams": "CAAQiI4CGAciEwjg2Mb5oP78AhUHAHYGHePcA1U="
+        }
+      }
+    ],
+    "videosTotalSize": {
+      "size": "8",
+      "accuracy": "ACCURACY_EXACT",
+      "achievedTotalSizeAccuracy": "CREATOR_ACHIEVED_TOTAL_SIZE_ACCURACY_EXACT"
+    }
+  }
+  

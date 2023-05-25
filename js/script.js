@@ -25,9 +25,16 @@
                 <span class="navSectionHeader-desktop">ARCHIVED</span>
                 <span class="navSectionHeader-mobile">|</span>
                 
-                <a href="../keyboards" class="last">
+                <a href="../keyboards" >
                     <span class="nav-icon">&#128187;</span> 
                     Keyboards
+                </a>
+
+                <span class="navSectionHeader-desktop">YOUTUBE</span>
+                <span class="navSectionHeader-mobile">|</span>
+                <a href="../youtube" class="last">
+                    <span class="nav-icon">&#128249;</span> 
+                    GO
                 </a>
                
             </nav>
@@ -41,7 +48,8 @@
             'home',
             'zippo',
             'keyboards', 
-            'explodingkittens'
+            'explodingkittens', 
+            'youtube'
         ]; 
     
         let index = window.location.href.indexOf('collection/') + 'collection/'.length; 

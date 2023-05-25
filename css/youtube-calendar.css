@@ -1,0 +1,50 @@
+#youtube-calendar { 
+    border: solid #856404 1px;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+
+#youtube-calendar td, 
+#youtube-calendar th {
+    border: solid #856404 1px;
+}
+
+#youtube-calendar th {
+    width: 10%;
+    padding: 0;
+    text-align: center;
+    font-weight: normal;
+    color: black;
+    font-family: 'Andale Mono', 'Monaco', 'Courier', 'Courier New', monospace;
+}
+
+#youtube-calendar .today { 
+    background: #fff3cd;
+    border: solid 856404 1px;
+}
+
+#youtube-calendar tr.number td {
+    text-align: right;
+    margin-right: .2rem;
+    border-bottom: solid white 1px;
+}
+
+#youtube-calendar tr.data td {
+    border-top: solid white 1px;
+    height: 100px;
+    text-align: top;
+    vertical-align: top;
+}
+
+div.list-item { 
+    margin-bottom: .2rem;
+}
+
+
+@media (max-width: 600px) { 
+
+    #youtube-calendar tr.data td {
+        height: 50px;
+    }
+}
