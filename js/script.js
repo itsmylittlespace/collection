@@ -6,7 +6,7 @@
 
     function loadHeader() { 
         var headerHtml = `
-            <a href="../home"><h1>My Closet</h1></a>
+            <a href="../home"><h1>My Space</h1></a>
             <nav>
 
                 <a href="../zippo"> 
