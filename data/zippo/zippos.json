@@ -88,7 +88,9 @@
         "code": "24025",
         "listPrice": 49.96, 
         "purchasedPrice": 34.92, 
-        "acquisition_date": "2023-05-21"
+        "acquisition_date": "2023-05-21", 
+        "youtubeId": "W6JEsDmdjhE", 
+        "amazon": "https://amzn.to/45w3Abc"
     },
     {
         "name": "Woodchuck Birch", 
