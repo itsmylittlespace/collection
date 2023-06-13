@@ -30,18 +30,14 @@
         "name": "Bolts Design", 
         "code": "29672",
         "listPrice": 133.29
-    },
+    }, 
     {
         "name": "Candy Apple Red", 
+        "material": "Zippo's Ice", 
         "code": "21063", 
         "listPrice": 39.96, 
         "amazon": "https://amzn.to/3q65Ndb"
-    },
-
-    {
-        "name": "Zippo 90th Anniversary Collectible", 
-        "code": "49864",
-        "listPrice": 99.96, 
-        "amazon": "https://amzn.to/3BPZSvx"
     }
+  
+
 ]

@@ -8,6 +8,10 @@
                 const image = (edition.filename === 'minions')
                             ? `<img src="../../data/explodingkittens/${edition.filename}/package.gif" alt="${edition.filename}.gif">`
                             : `<img src="../../data/explodingkittens/${edition.filename}/package.jpeg" alt="${edition.filename}.jpeg">`;
+                
+                const amazonLink = (edition.amazon) 
+                            ? getAmazonLink('', edition.amazon) 
+                            : '';
                             
                 return `
                     <tr>
@@ -18,7 +22,8 @@
                             <div class="mobile-800">
                                 <div class="addMarginTop">${displayType}</div>
                                 <div class="addMarginTop mobile">
-                                    CDN$${edition.price}
+                                    CDN$${edition.price} <br><br>
+                                    ${amazonLink}
                                 </div>
                             </div>
                             
@@ -27,7 +32,8 @@
                             ${image} 
                         </td>
                         <td class="price desktop center">
-                            $${edition.price}
+                            $${edition.price} <br>
+                            ${amazonLink}
                         </td>
                         <td class="desktop-800">${displayType}</td>
                         <td class="center">${edition.players}</td>   

@@ -33,35 +33,36 @@
     },
         {
         "name": "", 
-        "material": "", 
         "code": "",
         "listPrice": 0, 
         "purchasedPrice": 0, 
         "acquisition_date": ""
     },
     {
-        "name": "", 
-        "material": "", 
-        "code": "",
-        "listPrice": 0, 
-        "purchasedPrice": 0, 
-        "acquisition_date": ""
+        "name": "90th Anniversary Commemorative Design", 
+        "material": "High Polish Black", 
+        "code": "49864",
+        "listPrice": 99.96, 
+        "purchasedPrice": 99.28, 
+        "acquisition_date": "2023-05-27",
+        "amazon": "https://amzn.to/3BPZSvx"
     },
     {
         "name": "Black Crackle Silver Zippo Emblem", 
         "material": "Black Cracle", 
         "code": "363",
-        "listPrice": 0, 
-        "purchasedPrice": 0, 
-        "acquisition_date": ""
+        "listPrice": 69.96, 
+        "purchasedPrice": 40.51, 
+        "acquisition_date": "2023-05-27"
     },
     {
-        "name": "", 
-        "material": "", 
-        "code": "",
-        "listPrice": 0, 
-        "purchasedPrice": 0, 
-        "acquisition_date": ""
+        "name": "Jack Daniel's Design", 
+        "material": "Matte", 
+        "code": "49321",
+        "listPrice": 59.96, 
+        "purchasedPrice": 56.11, 
+        "acquisition_date": "2023-05-27", 
+        "amazon": "https://amzn.to/45vOqmj"
     },
 
     {

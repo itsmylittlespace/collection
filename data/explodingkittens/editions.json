@@ -8,7 +8,8 @@
         "num_of_cards": 56, 
         "release_year": "2015", 
         "acquisition_date": "2023-04-12",
-        "printed_year": 2021
+        "printed_year": 2021, 
+        "amazon": "https://amzn.to/43XnZEe"
     },
     { 
         "name": "NSFW Edition", 
@@ -19,7 +20,8 @@
         "num_of_cards": 56, 
         "release_year": "2015", 
         "acquisition_date": "2023-04-19",
-        "printed_year": 2021
+        "printed_year": 2021, 
+        "amazon": "https://amzn.to/43SGo5h"
     },
     { 
         "name": "Party Pack Edition", 
@@ -30,7 +32,8 @@
         "num_of_cards": 120, 
         "release_year": "2017", 
         "acquisition_date": "2023-04-10", 
-        "printed_year": 2021
+        "printed_year": 2021, 
+        "amazon": "https://amzn.to/42yLOBj"
     },
     { 
         "name": "Imploding Kittens", 
@@ -41,7 +44,8 @@
         "num_of_cards": 20, 
         "release_year": "2016", 
         "acquisition_date": "2023-04-19",
-        "printed_year": 2021
+        "printed_year": 2021, 
+        "amazon": "https://amzn.to/3NoezfO"
     },
     { 
         "name": "Streaking Kittens", 
@@ -52,7 +56,8 @@
         "num_of_cards": 15, 
         "release_year": "2018",
         "acquisition_date": "2023-04-10", 
-        "printed_year": 2022
+        "printed_year": 2022, 
+        "amazon": "https://amzn.to/3qC6Sts"
     },
     { 
         "name": "Barking Kittens", 
@@ -63,7 +68,8 @@
         "num_of_cards": 20, 
         "release_year": "2020", 
         "acquisition_date": "2023-04-12", 
-        "printed_year": 2020
+        "printed_year": 2020, 
+        "amazon": "https://amzn.to/42xhGpT"
     },
     { 
         "name": "Recipes for Disaster", 
@@ -74,7 +80,8 @@
         "num_of_cards": 121, 
         "release_year": "2022", 
         "acquisition_date": "2023-03-10", 
-        "printed_year": 2022
+        "printed_year": 2022, 
+        "amazon": "https://amzn.to/43ZXuyh"
     },
     { 
         "name": "Exploding Minions", 
@@ -85,7 +92,8 @@
         "num_of_cards": 72, 
         "release_year": "2021", 
         "acquisition_date": "2023-04-08", 
-        "printed_year": 2021
+        "printed_year": 2021, 
+        "amazon": "https://amzn.to/45Yg1Nb"
     },
     { 
         "name": "Two Player Edition", 
@@ -107,6 +115,7 @@
         "num_of_cards": 61, 
         "release_year": "2022", 
         "acquisition_date": "2023-04-19",
-        "printed_year": 2022
+        "printed_year": 2022, 
+        "amazon": "https://amzn.to/3CqnYNr"
     }
 ]
