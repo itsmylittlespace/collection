@@ -72,6 +72,10 @@
             <div class="well well-info" >
                 This is an expansion pack. You will need one of the full game edition to play this game. 
             </div>`;
+            
+        const amazonLink = (fullDetail.amazon) 
+            ? getAmazonLink('', fullDetail.amazon) 
+            : '';
     
         const contentList = fullDetail.contents.map(i => `<li>${i}</li>`).join('');
     
@@ -85,7 +89,8 @@
                             <ul>
                                 ${isExpansion ? `<li><strong>Expansion Number:</strong> ${fullDetail.expansion_no}</li>` : ''}
                                 <li>
-                                    <strong>Price:</strong> CDN$${fullDetail.price}    
+                                    <strong>Price:</strong> CDN$${fullDetail.price}   
+                                    ${amazonLink} 
                                 </li>
                                 <li>
                                     <strong>Printed Year:</strong> ${fullDetail.printed_year}
